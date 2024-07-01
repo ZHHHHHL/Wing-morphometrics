@@ -1,6 +1,6 @@
 # Wing-morphometrics
 Using MATLAB to match photos and hand-drawn images of insect wings
-![](A/)
+![](B/B(1).png)
 # Insect Wing Image Matching Project
 
 This project uses MATLAB to match photos and hand-drawn images of insect wings.
@@ -32,6 +32,8 @@ This project uses MATLAB to match photos and hand-drawn images of insect wings.
 
 ### Image Processing, Point Selection, Encoding, and Storing in Library File
 
+![](resources/point.png)
+
 1. Open the `MAIN.m` program and modify the 'path' at the beginning of the code to the folder path of photos or hand-drawn images.
     ```matlab
     % Example: sourceFolderPath = 'D:\Desktop\InsectWings\Final\MaybeFinalVersion\A';
@@ -46,6 +48,8 @@ This project uses MATLAB to match photos and hand-drawn images of insect wings.
 
 ### Similarity Comparison
 
+![](resources/result.png)
+
 1. Open the `MAIN2.m` program and modify the library `.mat` file name and photo code in the program.
     ```matlab
     % Example: calculateSimilarity(A3, 'CODELIBRARY.mat'); % Compare similarity between A3 and all hand-drawn image codes
@@ -54,6 +58,8 @@ This project uses MATLAB to match photos and hand-drawn images of insect wings.
 2. Run the program to generate all similarity percentages and display the top 3.
 
 ### Correlation Map Generation
+
+![](resources/Similarity.png)
 
 1. Open the `correlationmap.m` program and modify the library `.mat` file name in the program (if needed).
 2. Run the program to generate a correlation map of all hand-drawn image codes.
