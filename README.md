@@ -26,7 +26,7 @@ This project uses MATLAB to match photos and hand-drawn images of insect wings.
     - `B`: Stores all hand-drawn images.
 
 5. **PPT**
-    - `展示PPT`: Contains animations; please play to view the full content.
+    - `PPT`: Contains animations; please play to view the full content.
 
 ## Program Running Steps
 
