@@ -1,6 +1,6 @@
 # Wing-morphometrics
 Using MATLAB to match photos and hand-drawn images of insect wings
-![](B/B(1).png)
+![](B/B (1).png)
 # Insect Wing Image Matching Project
 
 This project uses MATLAB to match photos and hand-drawn images of insect wings.
