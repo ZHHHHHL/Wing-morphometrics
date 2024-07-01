@@ -1,4 +1,4 @@
-# Wing-morphometrics
+<center><h1>Temperature & Pressure Monitoring Project</h1></center>
 Using MATLAB to match photos and hand-drawn images of insect wings
 
 ![](resources/show.png)
