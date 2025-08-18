@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Temperature & Pressure Monitoring Project</h1>
+<h1 style="text-align: center;"> Wing-morphometrics Project</h1>
 
 Using MATLAB to match photos and hand-drawn images of insect wings
 
